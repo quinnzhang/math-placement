@@ -4,7 +4,7 @@ one:
   first_name: MyString
   last_name: MyString
   net_id: MyString
-  upi: 
+  upi: 1
   college: MyString
   preliminary_placement: MyString
   final_placement: MyString
@@ -13,7 +13,7 @@ two:
   first_name: MyString
   last_name: MyString
   net_id: MyString
-  upi: 
+  upi: 1
   college: MyString
   preliminary_placement: MyString
   final_placement: MyString
