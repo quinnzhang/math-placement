@@ -6,6 +6,7 @@ one:
   net_id: MyString
   upi: 1
   college: MyString
+  year: 1
   preliminary_placement: MyString
   final_placement: MyString
 
@@ -15,5 +16,6 @@ two:
   net_id: MyString
   upi: 1
   college: MyString
+  year: 1
   preliminary_placement: MyString
   final_placement: MyString

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20130611154237) do
+ActiveRecord::Schema.define(version: 20130611160250) do
 
   create_table "students", force: true do |t|
     t.string   "first_name"
@@ -19,6 +19,7 @@ ActiveRecord::Schema.define(version: 20130611154237) do
     t.string   "net_id"
     t.integer  "upi"
     t.string   "college"
+    t.integer  "year"
     t.string   "preliminary_placement"
     t.string   "final_placement"
     t.datetime "created_at"
